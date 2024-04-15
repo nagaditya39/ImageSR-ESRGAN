@@ -54,4 +54,6 @@ cd ImageSR-ESRGAN
 - This project derives inspiration from the original ESRGAN Implementation: [https://github.com/xinntao/ESRGAN]
 - Special thanks to the PyTorch community for their contributions to deep learning research and development.
 
+## Contributors
+- Aditya Nag [Github](https://github.com/nagaditya39)
 ---
