@@ -56,4 +56,5 @@ cd ImageSR-ESRGAN
 
 ## Contributors
 - Aditya Nag [Github](https://github.com/nagaditya39)
+- Adarsh Kumar [Github](https://github.com/cy6e)
 ---
